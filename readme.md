@@ -27,8 +27,8 @@
 ## ⚡ Tech Stack (Buttons Mode)
 
 ### 🧑‍💻 Programming
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=mysql)
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=for-the-badge&logo=mysql)
 ![C++](https://img.shields.io/badge/C++-DSA-00599C?style=for-the-badge&logo=cplusplus)
 
 ### 📊 Data Science & ML
