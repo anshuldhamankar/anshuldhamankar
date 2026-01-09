@@ -59,14 +59,14 @@
 > AI-Powered No-Code Data Science Platform  
 🔹 AutoML • NLP • EDA • Model Export  
 🔹 Reduced manual ML coding by **90%**  
-🔗 [View Project](https://github.com/anshuldhamankar/DataPilot-Chat-ScreenShots)
+🔗 [View Project](https://github.com/anshuldhamankar/DataPilot-Chat)
 
 ---
 
 ### 📉 **Customer Churn Prediction**
 > High-scale ML system for retention strategy  
 🔹 LightGBM • 167K rows • **96% Accuracy**  
-🔗 [View Project](https://github.com/anshuldhamankar/DeepQ-Assignment)
+🔗 [View Project](https://github.com/anshuldhamankar/Churn-Prediction-Model)
 
 ---
 
@@ -81,7 +81,7 @@
 > Assistive AI for bedridden patients  
 🔹 Eye Tracking • CV • Speech • Gestures  
 🔹 Winner @ IdeaSpark  
-🔗 [View Project](https://github.com/anshuldhamankar2004)
+🔗 [View Project](https://github.com/anshuldhamankar/BedSide-Bot)
 
 ---
 
