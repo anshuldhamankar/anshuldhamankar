@@ -15,7 +15,7 @@
 
 ---
 
-## 🧠 About Me
+## 🌪️ About Me
 - 🎓 B.Tech CSE @ **MIT ADT University, Pune (2026)**
 - 🤖 Aspiring **Data Scientist & AI/ML Engineer**
 - 🔬 Building **AI-powered platforms**, **AutoML systems**, & **data intelligence tools**
@@ -24,7 +24,7 @@
 
 ---
 
-## ⚡ Tech Stack (Buttons Mode)
+## ⚡ Tech Stack
 
 ### 🧑‍💻 Programming
 ![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python)
@@ -94,7 +94,7 @@
 
 ## 🤝 Let’s Build Something Impactful
 💡 AI • ML • Data Platforms • Automation  
-📩 **Open to Internships | Full-time | Collaborations**
+📩 **Open to Internships | Full-time | Collaborations | dhamankaranshul@gmail.com**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anshuldhamankar&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
