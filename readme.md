@@ -85,12 +85,6 @@
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github.com/anshuldhamankar.png" width="85%" />
-</p>
-
 ## 🏆 Achievements
 - ⭐ **5 Star Python – HackerRank**
 - 🥇 **IdeaSpark 2K23 Winner**
