@@ -59,7 +59,7 @@
 > AI-Powered No-Code Data Science Platform  
 🔹 AutoML • NLP • EDA • Model Export  
 🔹 Reduced manual ML coding by **90%**  
-🔗 [View Project](https://github.com/anshuldhamankar/DataPilot-Chat)
+🔗 [View Project](https://github.com/anshuldhamankar/DataPilot.Chat-Public)
 
 ---
 
