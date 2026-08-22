@@ -17,7 +17,7 @@
 
 ## 🌪️ About Me
 - 🎓 B.Tech CSE @ **MIT ADT University, Pune (2026)**
-- 🤖 Aspiring **Data Scientist & AI/ML Engineer**
+- 🤖 Aspiring **Backend Developer & AI/ML Engineer**
 - 🔬 Building **AI-powered platforms**, **AutoML systems**, & **data intelligence tools**
 - 🛠 Love turning **raw data → insights → deployed products**
 - 🏆 Winner **IdeaSpark 2K23**
